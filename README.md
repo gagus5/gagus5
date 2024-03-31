@@ -19,6 +19,7 @@
       <li><a href="https://github.com/gagus5">GitHub</a></li>
       <li>Correo electrónico: jogagu2005@gmail.com</li>
     </ul>
+    <h2><a href="https://drive.google.com/drive/folders/1GEOdhBgoHJMytPlCNyxhOEsUHeknjLPA?usp=sharing">📝 Mi Curriculum vitae</a></h2>
   </div>
 </body>
 </html>
