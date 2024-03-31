@@ -9,7 +9,9 @@
       <li>Técnico en Sistemas Microinformáticos y redes. (IES ALIXAR)</li>
       <h3>¿Que conocimientos y experiencias obtuve?</h3>
         <h4>Durante el curso</h4>
-          <p>Reparación de ordenadores, instalación de sistemas operativos, instalación de software y hardware, detección y limpieza de virus, copias de seguridad,             configuración de redes locales, etc.</p>
+           <ul>  
+            <li>Reparación de ordenadores, instalación de sistemas operativos, instalación de software y hardware, detección y limpieza de virus, copias de                       seguridad, configuración de redes locales, etc.</li>
+           </ul>
         <h4>Durante la FCT</h4>
       <ul>  
         <li>Testing y reparación de monitores gaming, tablets y diferentes dispositivos electrónicos. Realización de visual datasheet para el desarrollo de nuevos           productos y tareas logísticas de SAT.</li>
