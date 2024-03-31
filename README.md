@@ -10,7 +10,6 @@
       <h3>¿Que conocimientos y experiencias obtuve?</h3>
         <h4>Durante el curso</h4>
           <p>Reparación de ordenadores, instalación de sistemas operativos, instalación de software y hardware, detección y limpieza de virus, copias de seguridad,             configuración de redes locales, etc.</p>
-          <br>
         <h4>Durante la FCT</h4>
       <ul>  
         <li>Testing y reparación de monitores gaming, tablets y diferentes dispositivos electrónicos. Realización de visual datasheet para el desarrollo de nuevos           productos y tareas logísticas de SAT.</li>
@@ -26,7 +25,10 @@
       <li><a href="https://github.com/gagus5">GitHub</a></li>
       <li>Correo electrónico: jogagu2005@gmail.com</li>
     </ul>
-    <h3><a href="https://drive.google.com/drive/folders/1GEOdhBgoHJMytPlCNyxhOEsUHeknjLPA?usp=sharing">📝 Mi Curriculum vitae</a></h3>
+    <h3>📝 Mi Curriculum vitae</h3>
+      <ul>
+        <li><a href="https://drive.google.com/drive/folders/1GEOdhBgoHJMytPlCNyxhOEsUHeknjLPA?usp=sharing">Enlace al drive</a></li>
+      </ul>
   </div>
 </body>
 </html>
